@@ -1,0 +1,6 @@
+[
+    {
+        "input": "Categorize the following blog post according to the topics they cover.\nThis blog post covers the latest news about the US-China trade war. It covers the latest developments in the negotiations, opinions of the parties involved, and potential impacts on the economy.",
+        "output": "This blog post appears to cover topics such as International Relations, Trade Negotiations, Economic Impact, and U.S.-China Relations."
+    }
+]

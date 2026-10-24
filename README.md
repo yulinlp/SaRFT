@@ -1,5 +1,7 @@
 # SaRFT
 
+![ACL 2025](https://img.shields.io/badge/ACL-2025-2E8B57?style=flat-square)
+
 **SaRFT: Safety-aware Role-play Fine-Tuning**
 
 This is the official code repository for our ACL 2025 paper:
